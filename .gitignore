@@ -1,0 +1,20 @@
+# Build output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Generated project files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.slnx
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Content is not part of this repository
+Content/
